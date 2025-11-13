@@ -1,0 +1,4 @@
+comment = 'Test code for context switch'
+default_version = '1.0'
+module_pathname = '$libdir/test_sw'
+relocatable = false
